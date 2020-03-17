@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hashtagify</string>
+    <string name="hint_edt">Enter text with #hashtag</string>
+    <string name="title_edt">Hashtagify Edit Text Example</string>
+    <string name="title_medt">Hashtagify Material Edit Text Example</string>
+    <string name="title_tv">Hashtagify Text View Example</string>
+    <string name="btn_edittext">EditText</string>
+    <string name="btn_material_textinput_edittext">Material TextInput EditText</string>
+    <string name="btn_textview">TextView</string>
+    <string name="clickText">%s is clicked</string>
+</resources>
